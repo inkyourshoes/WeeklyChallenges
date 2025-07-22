@@ -1,0 +1,15 @@
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.deps.json
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.runtimeconfig.json
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/bin/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfoInputs.cache
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.AssemblyInfo.cs
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.CoreCompileInputs.cache
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.dll
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/refint/ChallengesWithTestsMark8.dll
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.pdb
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.genruntimeconfig.cache
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ref/ChallengesWithTestsMark8.dll
+/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/Debug/net6.0/ChallengesWithTestsMark8.csproj.AssemblyReference.cache
