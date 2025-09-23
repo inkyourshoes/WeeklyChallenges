@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "55j4m3wzGxo=",
+<<<<<<< HEAD
+  "dgSpecHash": "Wq/4MS51yJFJuL0WF8eNr2mWScdzIywy1LsZ994fdupEHJv+cpwdcvNLeMqtyPozxVRhTSZ8AdTWJNVFua4WtQ==",
+  "success": true,
+  "projectFilePath": "/Users/inkyourshoes/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+=======
+  "dgSpecHash": "5RYCC/MoSfY30NF8Qgz+5syQ5ENFT8GimHjGhhVg7NHB4e2p3a5eoIrQDEIfaHyc1ZDSd/sFSbwY/7nJ9lhJXw==",
   "success": true,
   "projectFilePath": "/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8.Tests/ChallengesWithTestsMark8.Tests.csproj",
+>>>>>>> 630038bf103f12a2ef9dca50d0c826fa387ea441
   "expectedPackageFiles": [
     "/Users/inkyourshoes/.nuget/packages/microsoft.codecoverage/15.9.0/microsoft.codecoverage.15.9.0.nupkg.sha512",
     "/Users/inkyourshoes/.nuget/packages/microsoft.csharp/4.0.1/microsoft.csharp.4.0.1.nupkg.sha512",

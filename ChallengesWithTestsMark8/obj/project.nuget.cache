@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "XgyE4eN83n4=",
+<<<<<<< HEAD
+  "dgSpecHash": "Bn1Ikm8b3COtQAegD4PGovH6zhx4X8lb+TC+5RjOPtICeLYi3QBgmeVaM0JTbIcq9fuRBjdYVCs0AFa35e56JQ==",
+  "success": true,
+  "projectFilePath": "/Users/inkyourshoes/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+=======
+  "dgSpecHash": "FR4S6OF3M5izUN7RXs28O64SqgYhWhn7aeT4XDa+LyUNWvO3pN4AW0bwz3QL4KzGzqPw8SNrfTCBg9Q1IduMCA==",
   "success": true,
   "projectFilePath": "/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
+>>>>>>> 630038bf103f12a2ef9dca50d0c826fa387ea441
   "expectedPackageFiles": [],
   "logs": []
 }
