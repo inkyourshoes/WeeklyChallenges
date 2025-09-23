@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace ChallengesWithTestsMark8
 {
-    public class ChallengesSet03teweeewy
+    public class ChallengesSet03
     {
         public bool ArrayContainsAFalse(bool[] vals)
         {

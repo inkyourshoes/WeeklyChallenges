@@ -235,5 +235,49 @@ namespace ChallengesWithTestsMark8.Tests
 
     public class ChallengesSet03
     {
+        public bool ArrayContainsAFalse(bool[] values)
+        {
+            throw new NotImplementedException();
+        }
+
+        public void ChangeAllElementsToUppercase(string[] values)
+        {
+            throw new NotImplementedException();
+        }
+
+        public int[] GetOddsBelow100()
+        {
+            throw new NotImplementedException();
+        }
+
+        public int LastMinusFirst(int[] numbers)
+        {
+            throw new NotImplementedException();
+        }
+
+        public decimal Divide(decimal dividend, decimal divisor)
+        {
+            throw new NotImplementedException();
+        }
+
+        public char GetLastLetterOfString(string str)
+        {
+            throw new NotImplementedException();
+        }
+
+        public char GetFirstLetterOfString(string str)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool IsSumOfOddsOdd(IEnumerable<int> numbers)
+        {
+            throw new NotImplementedException();
+        }
+
+        public bool PasswordContainsUpperLowerAndNumber(string password)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
