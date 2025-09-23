@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace ChallengesWithTestsMark8
 {
-    public class ChallengesSet03
+    public class ChallengesSet03teweeewy
     {
         public bool ArrayContainsAFalse(bool[] vals)
         {

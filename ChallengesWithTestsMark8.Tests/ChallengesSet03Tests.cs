@@ -232,4 +232,8 @@ namespace ChallengesWithTestsMark8.Tests
             }
         }
     }
+
+    public class ChallengesSet03
+    {
+    }
 }
