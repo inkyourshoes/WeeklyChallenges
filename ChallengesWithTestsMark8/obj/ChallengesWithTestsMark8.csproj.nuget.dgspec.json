@@ -1,19 +1,6 @@
 {
   "format": 1,
   "restore": {
-<<<<<<< HEAD
-    "/Users/inkyourshoes/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {}
-  },
-  "projects": {
-    "/Users/inkyourshoes/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "/Users/inkyourshoes/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-        "projectName": "ChallengesWithTestsMark8",
-        "projectPath": "/Users/inkyourshoes/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-        "packagesPath": "/Users/inkyourshoes/.nuget/packages/",
-        "outputPath": "/Users/inkyourshoes/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
-=======
     "/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj": {}
   },
   "projects": {
@@ -25,7 +12,6 @@
         "projectPath": "/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
         "packagesPath": "/Users/inkyourshoes/.nuget/packages/",
         "outputPath": "/Users/inkyourshoes/repos/WeeklyChallenges/ChallengesWithTestsMark8/obj/",
->>>>>>> 630038bf103f12a2ef9dca50d0c826fa387ea441
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/inkyourshoes/.nuget/NuGet/NuGet.Config"
