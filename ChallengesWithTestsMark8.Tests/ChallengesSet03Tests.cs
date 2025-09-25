@@ -192,7 +192,8 @@ namespace ChallengesWithTestsMark8.Tests
         {
             // Arrange
             ChallengesSet03 challenger = new ChallengesSet03();
-            int[] odds = {
+            int[] odds =
+            {
                 1, 3, 5, 7, 9, 11, 13, 15, 17, 19, 21, 23, 25,
                 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 47, 49,
                 51, 53, 55, 57, 59, 61, 63, 65, 67, 69, 71, 73,
@@ -232,52 +233,5 @@ namespace ChallengesWithTestsMark8.Tests
             }
         }
     }
-
-    public class ChallengesSet03
-    {
-        public bool ArrayContainsAFalse(bool[] values)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void ChangeAllElementsToUppercase(string[] values)
-        {
-            throw new NotImplementedException();
-        }
-
-        public int[] GetOddsBelow100()
-        {
-            throw new NotImplementedException();
-        }
-
-        public int LastMinusFirst(int[] numbers)
-        {
-            throw new NotImplementedException();
-        }
-
-        public decimal Divide(decimal dividend, decimal divisor)
-        {
-            throw new NotImplementedException();
-        }
-
-        public char GetLastLetterOfString(string str)
-        {
-            throw new NotImplementedException();
-        }
-
-        public char GetFirstLetterOfString(string str)
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool IsSumOfOddsOdd(IEnumerable<int> numbers)
-        {
-            throw new NotImplementedException();
-        }
-
-        public bool PasswordContainsUpperLowerAndNumber(string password)
-        {
-            throw new NotImplementedException();
-        }
-    }
 }
+    

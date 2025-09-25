@@ -116,7 +116,11 @@ namespace ChallengesWithTestsMark8
 
             for (int i = 0; i < 100; i++)
             {
-                list.Add(i);
+                if (i % 2 != 0)
+                {
+                    list.Add(i);
+                }
+                
             }
 
             return list.ToArray();
@@ -131,16 +135,6 @@ namespace ChallengesWithTestsMark8
             }
         }
 
-        public char FindMissingLetter(char[] array)
-        {
-            char[] letters = "abcdefghijklmnopqrstuvwxyz".ToCharArray();
-            if (char.IsUpper(array[0]))
-            {
-                letters = "abcdefghijklmnopqrstuvwxyz".ToUpper().ToCharArray();
-            }
-
-            var place = 0;
-            return array[place];
-        }
+        
     }
 }

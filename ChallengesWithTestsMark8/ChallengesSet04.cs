@@ -1,16 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Diagnostics.CodeAnalysis;
+
 
 namespace ChallengesWithTestsMark8
 {
     public class ChallengesSet04
     {
-        public ChallengesSet04()
-        {
-
-
+        
             public int AddEvenSubtractOdd(int[] numbers)
             {
                 var sum = 0;
@@ -138,16 +135,21 @@ namespace ChallengesWithTestsMark8
 
                 return n.Average();
             }
-
+            
             public int Factorial(int number)
             {
-                if (number == 0)
+                if (number < 0)
+                {
+                    throw new ArgumentOutOfRangeException(nameof(number), "Factorial is not defined for negative numbers.");
+                }
+                if (number == 0 || number == 1)
                 {
                     return 1;
                 }
-
                 return number * Factorial(number - 1);
             }
+
+           
         }
-    }
+    
 }
