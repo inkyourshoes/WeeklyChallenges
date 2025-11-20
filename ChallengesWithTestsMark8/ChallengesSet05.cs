@@ -71,6 +71,7 @@ namespace ChallengesWithTestsMark8
                 {
                     sentence += word.Trim() + " ";
                 }
+                
             }
 
             if (sentence.Length == 0)
